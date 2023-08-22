@@ -1,5 +1,6 @@
 import React from "react";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import IconGithub from "../icons/IconGithub";
 
 export default class AboutComponent extends React.Component {
 
@@ -8,7 +9,7 @@ export default class AboutComponent extends React.Component {
             <div className="resume-section-content">
                 <h1 className="mb-0">
                     Abramovich
-                    <span className="text-primary">Alexander</span>
+                    <span className="text-primary m-lg-3">Alexander</span>
                 </h1>
                 <div className="subheading mb-5">
                     Warsaw · Legionowa 7 · 01-343 · (375) 29-8485759 ·
@@ -31,11 +32,12 @@ export default class AboutComponent extends React.Component {
                     <a className="social-icon"
                        href="https://www.linkedin.com/in/alex-abramovich/" target="_blank"
                        rel="noopener noreferrer">
-                        <FontAwesomeIcon icon={["fab", "linkedin-in"]}/>
+                        <FontAwesomeIcon icon={['fab', 'coffee']} />
+
                     </a>
                     <a className="social-icon" href="https://github.com/psyclr" target="_blank"
                        rel="noopener noreferrer">
-                        <FontAwesomeIcon icon={["fab", "github"]}/>
+                        <IconGithub/>
                     </a>
                 </div>
             </div>

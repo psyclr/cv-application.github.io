@@ -127,7 +127,7 @@ h1, .h1 {
 
 @media (min-width: 1200px) {
     h1, .h1 {
-        font-size: 6rem;
+        font-size: 5.5rem;
     }
 }
 
@@ -12576,7 +12576,7 @@ section.resume-section {
     padding-right: 1rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
-    max-width: 75rem;
+    max-width: 300rem;
 }
 
 section.resume-section .resume-section-content {
