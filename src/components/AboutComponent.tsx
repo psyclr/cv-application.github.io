@@ -12,8 +12,8 @@ export default class AboutComponent extends React.Component {
                     <span className="text-primary m-lg-3">Alexander</span>
                 </h1>
                 <div className="subheading mb-5">
-                    Warsaw · Legionowa 7 · 01-343 · 883778952
-                    <a href="mailto:poly.technologyst@gmail.com">poly.technologyst@gmail.com</a>
+                    Warsaw · Legionowa 7 · 01-343 · 883778952 ·
+                    <a className="m-lg-1" href="mailto:poly.technologyst@gmail.com"> poly.technologyst@gmail.com</a>
                 </div>
                 <p className="lead mb-5">
                     Software developer with 7 years of experience, specialization
