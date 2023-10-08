@@ -73,7 +73,6 @@ export default class SkillsComponent extends React.Component {
                              alt="img"/>
                     </li>
 
-
                 </ul>
                 <div className="subheading mb-3">Workflow</div>
                 <ul className="fa-ul mb-0">
@@ -88,6 +87,15 @@ export default class SkillsComponent extends React.Component {
                     <li>
                         <span className="fa-li"><i className="fas fa-check"></i></span>
                         DRY, KISS, OOP, SOLID, TDD, CI/CD
+                    </li>
+                    <li>
+                        Java from 8 to 17
+                        JavaScript on basic level
+                        Python on basic level
+                        Spring framework including SpringBoot, SpringData, SpringSecurity, SpringCloud
+                        Sql and NoSQL databases: Oracle, Postgres, Mysql, MongoDB, DynamoDB
+                        AWS: EC2, Lambda, Cognito, CloudFormation
+                        Tests: JUnit, Mockito, Powermock, Rest-assured
                     </li>
                 </ul>
             </div>

@@ -21,6 +21,7 @@ function ResumeScreen() {
             <hr className="m-0"/>
             <InterestsComponent/>
             <hr className="m-0"/>
+            <p className="badge">I authorize the processing of my personal and sensitive data</p>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <script src="js/scripts.js"></script>
